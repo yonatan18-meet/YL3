@@ -1,0 +1,22 @@
+h1{
+	background-color:red;
+	text-align:center;
+	font-size:50pt;
+	text-transform: uppercase;
+	}
+p{
+	color: lime;
+	font-size: 50pt;
+	background-image: url("https://farm9.staticflickr.com/8720/16802162424_038f085ac2.jpg");
+	background-size: 16.75%;
+}
+img {
+	width: 100%;
+	height: 70%;
+	border-radius: 30%;
+}
+body {
+	font-family: Arial;
+	background-image: url("http://static.seriouseats.com/1/braestar/live/pages/steak/images/ribeye.png");
+	background-size: 16.75%;
+}
